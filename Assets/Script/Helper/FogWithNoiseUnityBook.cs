@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FogWithNoise : PostEffectsBase {
+public class FogWithNoiseUnityBook : PostEffectsBase {
 
 	public Shader fogShader;
 	private Material fogMaterial = null;
