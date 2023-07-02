@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: HatchingMat
-  m_Shader: {fileID: 4800000, guid: 101c7afe1419945bc93259502a86151a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 411bf30fba7ce1346ba5e246abd5a520, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
